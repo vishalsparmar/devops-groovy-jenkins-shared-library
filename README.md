@@ -96,11 +96,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Por favor más información en [Documentation](https://ejemplo.com)
 <!--lang:en-->
 ## Contact  
-equipo-devops@ejample.com
+equipo-devops@ejamplo.com
 
 <!--lang:es--]
 ## Contacto  
-equipo-devops@ejample.com
+equipo-devops@ejamplo.com
 
 
 [!--lang:en-->
